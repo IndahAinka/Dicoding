@@ -21,3 +21,4 @@ class TestStringMethods(unittest.TestCase):
 if __name__ == '__main__':
     # Test Runner
     unittest.main()
+    
